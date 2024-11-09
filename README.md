@@ -6,3 +6,5 @@ Website ini adalah website yang menyuarakan anti bullying. Website ini juga mene
 Dengan adanya web ini saya harap saya mampu berkontribusi dalam campaign anti bullying seluruh Indonesia.
 
 Di dalam web ini disediakan fitur curhat. Sehingga para korban bullying bisa merasa aman untuk bercerita tentang pengalaman yang pernah korban dapatkan. 
+
+Kode website menggunakan HTML, CSS, JavaScript, dan BootsStrap
