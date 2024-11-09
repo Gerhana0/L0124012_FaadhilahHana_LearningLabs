@@ -2,7 +2,7 @@ body {
     background-color: #fff5e6;
     padding-top: 70px;
 }
-/* Header */
+
 .navbar {
     background-color: #ffb347;
     position: fixed;
@@ -30,13 +30,13 @@ body {
     background-color: #ff6347;
 }
 
-/* Carousel */
+
 .carousel-item img {
     max-height: 500px;
     object-fit: cover;
 }
 
-/* About Section */
+
 .about-section {
     background-color: #fff0db;
     padding: 30px;
@@ -44,7 +44,7 @@ body {
     border-radius: 10px;
 }
 
-/* Services Section */
+
 .services-section h2 {
     font-weight: bold;
     color: #333;
@@ -64,11 +64,10 @@ body {
     color: #ff6347;
 }
 
-/* Footer */
 footer {
     background-color: #ffb347;
     color: white;
-    /* padding: 15px; */
+    padding: 15px;
     font-family: Arial, sans-serif;
     padding: 20px 0;
 }
@@ -137,8 +136,6 @@ footer a:hover {
     border-top: 1px solid #000000;
 }
   
-
-
 nav.navbar.scrolled {
     background-color: #000000; 
 }
@@ -159,6 +156,7 @@ nav.navbar.scrolled {
     line-height: 1.7;
     color: #000000;
 }
+
 .image-container img {
     width: 100%;
     height: auto;
@@ -198,25 +196,9 @@ nav.navbar.scrolled {
 }
 
 .vertical-line {
-    border-left: 2px solid black; /* set line thickness and color */
-    height: 330px; /* set line height */
-    margin: 0 auto; /* center the line */
-}
-
-.image-container img {
-    opacity: 1;  /* Pastikan gambar terlihat di awal */
-    transform: scale(1);  /* Pastikan gambar tidak ter-skala pada awal */
-    transition: transform 0.5s ease, opacity 0.5s ease;
-}
-
-.image-container img.hidden {
-    opacity: 0; 
-    transform: scale(0.95); 
-}
-
-.image-container img.visible {
-    opacity: 1;
-    transform: scale(1); 
+    border-left: 2px solid black; 
+    height: 330px; 
+    margin: 0 auto; 
 }
 
 .section {
